@@ -10,17 +10,22 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
-            //2, 3, 7-> 7
-            //44 5 78-> 78
-            //22 3 9-> 22
+            //Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+            //a = 5; b = 7->max = 7
+            //a = 2 b = 10->max = 10
+            //a = -9 b = -3->max = -3
             int firstNumber = Convert.ToInt32(Console.ReadLine());
             int secondNumber = Convert.ToInt32(Console.ReadLine());
-            int theThirdNumber = Convert.ToInt32(Console.ReadLine());
-            int max = Math.Max(firstNumber, secondNumber);
-            int max_1 = Math.Max(max, theThirdNumber);
-            int fullMax = Math.Max(max, max_1);
-            Console.WriteLine(fullMax);
+            if (firstNumber > secondNumber)
+            {
+                Console.WriteLine($"число {firstNumber} больше, чем {secondNumber} \n" +
+                    $"ответ = {firstNumber}");
+            }
+            else
+            {
+                Console.WriteLine($"число {firstNumber} МЕНЬШЕ, чем {secondNumber} \n" +
+                    $"ответ = {secondNumber}");
+            }
 
         }
     }
