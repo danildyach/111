@@ -1,0 +1,15 @@
+E:\77\hm\bin\Debug\net7.0\hm.exe
+E:\77\hm\bin\Debug\net7.0\hm.deps.json
+E:\77\hm\bin\Debug\net7.0\hm.runtimeconfig.json
+E:\77\hm\bin\Debug\net7.0\hm.dll
+E:\77\hm\bin\Debug\net7.0\hm.pdb
+E:\77\hm\obj\Debug\net7.0\hm.csproj.AssemblyReference.cache
+E:\77\hm\obj\Debug\net7.0\hm.GeneratedMSBuildEditorConfig.editorconfig
+E:\77\hm\obj\Debug\net7.0\hm.AssemblyInfoInputs.cache
+E:\77\hm\obj\Debug\net7.0\hm.AssemblyInfo.cs
+E:\77\hm\obj\Debug\net7.0\hm.csproj.CoreCompileInputs.cache
+E:\77\hm\obj\Debug\net7.0\hm.dll
+E:\77\hm\obj\Debug\net7.0\refint\hm.dll
+E:\77\hm\obj\Debug\net7.0\hm.pdb
+E:\77\hm\obj\Debug\net7.0\hm.genruntimeconfig.cache
+E:\77\hm\obj\Debug\net7.0\ref\hm.dll
